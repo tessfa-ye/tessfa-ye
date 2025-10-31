@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tesfaye Woretaw  
 
-🚀 **Full Stack Developer | Flutter & MERN Stack Enthusiast**  
+## 🚀 **Full Stack Developer | Flutter & MERN Stack Enthusiast**  
 Passionate developer with expertise in building **scalable web and mobile applications** and crafting **innovative, user-centered solutions** that deliver seamless experiences.
 
 ---
@@ -19,7 +19,7 @@ Passionate developer with expertise in building **scalable web and mobile applic
 ![CSS](https://img.shields.io/badge/Style-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-black)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-blueviolet)
 ![Tailwind CSS](https://img.shields.io/badge/UI-Tailwind_CSS-38B2AC)
 ![Flutter](https://img.shields.io/badge/Mobile-Flutter-blue)
 ![Dart](https://img.shields.io/badge/Language-Dart-0175C2)
@@ -28,7 +28,7 @@ Passionate developer with expertise in building **scalable web and mobile applic
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933)
-![Express](https://img.shields.io/badge/Framework-Express-000000)
+![Express](https://img.shields.io/badge/Framework-Express-E10098)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB)
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 
@@ -46,8 +46,9 @@ Passionate developer with expertise in building **scalable web and mobile applic
 ![REST API](https://img.shields.io/badge/API-RESTful-009688)
 ![GraphQL](https://img.shields.io/badge/API-GraphQL-E10098)
 ![Firebase](https://img.shields.io/badge/Cloud-Firebase-FFCA28)
-![Render](https://img.shields.io/badge/Cloud-Render-blueviolet)
-![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)
+![Cloudinary](https://img.shields.io/badge/Cloud-Cloudinary-green)
+![Render](https://img.shields.io/badge/Deploy-Render-blueviolet)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-orange)
 
 ---
 
@@ -63,9 +64,9 @@ Passionate developer with expertise in building **scalable web and mobile applic
 ### 🧑‍💻 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [**We-Chat**](https://github.com/tessfa-ye/we-chat) | Real-time one-on-one chat app with profile management and file sharing. | React, Node.js, Express, MongoDB, Socket.IO |
-| [**To-Do List**](https://github.com/tessfa-ye/todo-list) | A minimal task management web app with authentication. | React, Express, MongoDB |
-| [**My Fitness**](https://github.com/tessfa-ye/my-fitness) | A fitness tracking app to monitor workouts and goals. | Flutter, Firebase |
+| [**We-Chat**](https://github.com/tessfa-ye/we-chat) | Real-time one-on-one chat app with profile management and file sharing. | Flutter, Node.js, Express, Firebase, Socket.IO |
+| [**To-Do List**](https://github.com/tessfa-ye/todo-list) | A minimal task management web app with authentication. | React, Node.js, MongoDB |
+| [**My Fitness**](https://github.com/tessfa-ye/my-fitness) | A fitness tracking app to monitor workouts and goals. | Flutter, Node.js, MongoDB |
 
 ---
 
@@ -77,8 +78,8 @@ Passionate developer with expertise in building **scalable web and mobile applic
 
 ### 📫 Connect With Me
 📧 **Email:** [tessfayye@gmail.com](mailto:tessfayye@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/tesfaye-woretaw](https://www.linkedin.com/in/tesfaye-woretaw-89335a276)  
-🐙 **GitHub:** [github.com/tessfa-ye](https://github.com/tessfa-ye) 
+💼 **LinkedIn:** [linkedin.com/in/tesfaye-woretaw-89335a276](https://www.linkedin.com/in/tesfaye-woretaw-89335a276)  
+🌍 **Portfolio:** [tesfaye-woretaw-portfolio.vercel.app](https://tesfaye-woretaw-portfolio.vercel.app/)
 
 ---
 
