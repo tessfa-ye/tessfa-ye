@@ -67,6 +67,7 @@ Passionate developer with expertise in building **scalable web and mobile applic
 | [**We-Chat**](https://github.com/tessfa-ye/we-chat) | Real-time one-on-one chat app with profile management and file sharing. | Flutter, Node.js, Express, Firebase, Socket.IO |
 | [**To-Do List**](https://github.com/tessfa-ye/todo-list) | A minimal task management web app with authentication. | React, Node.js, MongoDB |
 | [**My Fitness**](https://github.com/tessfa-ye/my-fitness) | A fitness tracking app to monitor workouts and goals. | Flutter, Node.js, MongoDB |
+| [**Mental Health Tracker App**](https://github.com/tessfa-ye/mental-health-tracker-app) | It is a supportive and intelligent companion designed to help users monitor, understand, and improve their mental well-being. | Flutter, Node.js, MongoDB, firebase |
 
 ---
 
