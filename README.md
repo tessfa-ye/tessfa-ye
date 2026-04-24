@@ -80,7 +80,7 @@ Passionate developer with expertise in building **scalable web and mobile applic
 ### 📫 Connect With Me
 📧 **Email:** [tessfayye@gmail.com](mailto:tessfayye@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/tesfaye-woretaw-89335a276](https://www.linkedin.com/in/tesfaye-woretaw-89335a276)  
-🌍 **Portfolio:** [tesfaye-woretaw-portfolio.vercel.app](https://tesfaye-woretaw-portfolio.vercel.app/)
+🌍 **Portfolio:** [tesfaye-woretaw-portfolio.vercel.app](https://tesfaye-dev-portfolio.vercel.app/)
 
 ---
 
