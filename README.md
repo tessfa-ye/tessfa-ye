@@ -44,7 +44,6 @@ Passionate developer with expertise in building **scalable web and mobile applic
 
 ### ☁️ API & Cloud Services
 ![REST API](https://img.shields.io/badge/API-RESTful-009688)
-![GraphQL](https://img.shields.io/badge/API-GraphQL-E10098)
 ![Firebase](https://img.shields.io/badge/Cloud-Firebase-FFCA28)
 ![Cloudinary](https://img.shields.io/badge/Cloud-Cloudinary-green)
 ![Render](https://img.shields.io/badge/Deploy-Render-blueviolet)
@@ -53,11 +52,9 @@ Passionate developer with expertise in building **scalable web and mobile applic
 ---
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Tool-Git-F05032)
 ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC)
 ![Postman](https://img.shields.io/badge/Tool-Postman-orange)
-![Figma](https://img.shields.io/badge/Design-Figma-9cf)
 
 ---
 
