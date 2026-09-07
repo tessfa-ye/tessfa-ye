@@ -69,10 +69,11 @@ Passionate developer with expertise in building **scalable web and mobile applic
 ---
 
 ### 📊 GitHub Stats
-![Tesfaye's GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=tessfa-ye&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=tessfa-ye&layout=compact&theme=tokyonight)
+![Tesfaye's GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
 
 ---
+
 
 
 ### 📫 Connect With Me
